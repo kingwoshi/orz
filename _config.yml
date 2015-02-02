@@ -22,7 +22,7 @@ fancybox: true
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像
 avatar: "https://avatars0.githubusercontent.com/u/10783836?v=3&u=5e52d10d4f377f9a905a743e4cf43e4b747f8aae&s=140"
